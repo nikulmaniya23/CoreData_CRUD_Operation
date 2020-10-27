@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.5)
+  - SwiftyVerticalScrollBar (0.1.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - SwiftyVerticalScrollBar
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - SwiftyVerticalScrollBar
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  SwiftyVerticalScrollBar: e155438f1e551e258fbc9ea8bc5c5d8f4728c3d0
+
+PODFILE CHECKSUM: efb3907149435c5354b63109ed31a3355d4398d9
+
+COCOAPODS: 1.8.4
